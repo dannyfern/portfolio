@@ -1,3 +1,4 @@
+
 .row{
     display: flex;
     justify-content: space-between;
@@ -31,6 +32,8 @@
       background-color: rgb(255, 255, 255);
       overflow: hidden;
     }
+
+    
     
     /* Style the links inside the navigation bar */
     .topnav a {
@@ -59,14 +62,6 @@
         font-size: 14px;
     }
   
-    /* .align-right-medium {
-      float: right;
-      margin-right: 10px;
-      margin-left: 10px;
-      top: 
-  
-    } */
-  
     .text h1 {
         text-align: center;
     }
@@ -92,13 +87,16 @@
       .col-s-12 {width: 100%;}
       .top-left {
           position: absolute;
-          top: 200px;
-          left: 200px;
-          font-size: 38px;}
+          top: 100px;
+          left: 100px;
+          font-size: 30px;}
+      .align-right-medium{font-size: 1.5em;}
+      .text h1 {font-size: 2em}
+      .text img {width: 200px; height: 200px;}
       
   }
     
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 769px) {
       /* For desktop: */
       .col-1 {width: 8.33%;}
       .col-2 {width: 16.66%;}
@@ -117,8 +115,10 @@
           top: 250px;
           left: 150px;
         }
-        /* .top-left p{font-size: 38px; position: absolute; top: 250px; left: 150px;} */
-      .align-right-medium{font-size: 2em;}
+        
+      .align-right-medium{font-size: 3em;}
+      .text h1 {font-size: 3em}
+      .text img {width: 200px}
   }
   
   
