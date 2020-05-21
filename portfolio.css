@@ -1,6 +1,26 @@
- .title-text{
-    text-align: center;
+/* /projects css/ */
+#projects{
+    background-color: #eeeeee;
+    min-height: 1020px;
 }
+#projects h1{
+    margin: 15px;
+    text-align:center;
+}
+
+.project{
+    background-color: rgb(197, 197, 197);
+    margin:5px 5px;
+    min-height: 250px;
+}
+.project img{
+    width: 100%;
+    height: 200px;
+}
+
+
+
+
  .row{
     display: flex;
     justify-content: space-between;
@@ -32,27 +52,6 @@
       background-color: rgb(255, 255, 255);
       overflow: hidden;
     }
-
-    #projects{
-        background-color: #eeeeee;
-        min-height: 800px;
-        text-align: center;
-    }
-
- 
-    
-    .project{
-        background-color: white;
-        margin:10px 5px;
-        min-height: 250px;
-        
-    }
-    .project img {
-        width: 100%;
-    }
-    
-      
-
     
     
     /* Style the links inside the navigation bar */
@@ -86,12 +85,7 @@
         text-align: center;
     }
 
-    .row{
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
+
   
   /* For mobile phones: */
   [class*="col-"] {
@@ -117,11 +111,23 @@
           top: 100px;
           left: 100px;
           font-size: 30px;}
+      #projects h1{text-align: center; font-size:2.7em; padding-top: 30px;}
+      #projects {min-height: 1900px;}
+      .project h2, a{font-size: 2.3em;}
+      .project img{min-height: 300px; }
+      .project h2, a{font-size: 1.5em;}
+      #projects{min-height: 600px;}
+      .skill img{width:80%; height:80%;}
+      .container {margin: 0px 150px;}
+      /* find an alternative to solve this */
+      #skills [class*="col-"] {
+        width: 16.66%;
+      }
     
       
   }
     
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 769px) {
       /* For desktop: */
       .col-1 {width: 8.33%;}
       .col-2 {width: 16.66%;}
@@ -135,18 +141,30 @@
       .col-10 {width: 83.33%;}
       .col-11 {width: 91.66%;}
       .col-12 {width: 100%;}
-      .top-left{
-          position: absolute;
-          top: 250px;
-          left: 150px;
-        }
-        
+      .top-left{position: absolute; top: 250px; left: 150px;}
       .align-right-medium{font-size: 3em;}
       .text h1 {font-size: 3em}
       .text img {width: 200px}
+      #projects h1{text-align: center; font-size:2.7em; padding-top: 30px;}
+      #projects {min-height: 1900px;}
+      .project h2, a{font-size: 2.3em;}
+      #profile img{width:70%; margin:0 15%;}
+      #profile p{font-size: 1.2em;}
+      .project img{min-height: 300px; }
+      .project h2, a{font-size: 1.5em;}
+      #projects{min-height: 600px;}
+      .skill img{width:80%; height:80%;}
+      .container {margin: 0px 150px;}
+      /* find an alternative to solve this */
+      #skills [class*="col-"] {
+        width: 16.66%;
+      }
+    }
       
-      
-  }
+     
+    
+     
+    }
 
   
   
