@@ -1,0 +1,39 @@
+/* graphical component  */
+
+.bloghead h1{
+    text-align: center;
+}
+
+.blog-post img {
+    width: 300px;
+    height: 250px;
+    padding:1px;
+    border:1px solid #021a40;
+    background-color:rgb(0, 0, 0);
+  }
+
+.blog-post img:hover {
+    transform: scaleX(-1);
+}
+  
+
+  /* Blog  */
+.blog-post img{
+    margin: 10px;
+    border
+}
+
+  #blog-container {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    
+  }
+
+  .left-content {
+    width: 70%;
+  }

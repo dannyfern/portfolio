@@ -1,4 +1,4 @@
-/* /projects css/ */
+/* /for blog posts / */
 #projects{
     background-color: #eeeeee;
     min-height: 1020px;
@@ -18,8 +18,8 @@
     height: 200px;
 }
 
-
-
+/* 
+Navbar and other */
 
  .row{
     display: flex;
