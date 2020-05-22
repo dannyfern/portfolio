@@ -1,7 +1,9 @@
+
 /* /for blog posts / */
 #projects{
-    background-color: #eeeeee;
+    background-color: ;
     min-height: 1020px;
+    background:rgb(219, 219, 219); 
 }
 #projects h1{
     margin: 15px;
@@ -18,8 +20,7 @@
     height: 200px;
 }
 
-/* 
-Navbar and other */
+/* Navbar and other */
 
  .row{
     display: flex;

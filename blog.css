@@ -1,6 +1,10 @@
-/* graphical component  */
+/* styling the blog  */
 
-.bloghead h1{
+.blog-post h4 {
+  font-size: 20px;
+}
+
+.blogger h1{
     text-align: center;
 }
 
@@ -17,8 +21,11 @@
 }
   
 
-  /* Blog  */
+  /* Blog spacing and images  */
 .blog-post img{
+    border-radius:25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
     margin: 15px;}
 
   #blog-container {
