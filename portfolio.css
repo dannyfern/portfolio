@@ -1,5 +1,9 @@
 
 /* /for blog posts / */
+.project img:hover {
+  transform: scaleX(-1);
+}
+
 #projects{
     background-color: ;
     min-height: 1020px;
