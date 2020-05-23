@@ -10,7 +10,7 @@ To create a portfolio to showcase my ability within four weeks of learning HTML 
 
 ### <u>Sitemap</u> 
 
-![sitemap](C:\Users\danie\projects\portfolio\docs\sitemap.JPG)
+![](./docs/sitemap.JPG)
 
 ### <u>Wireframes</u>
 
