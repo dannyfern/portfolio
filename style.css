@@ -69,7 +69,19 @@ body { background:rgb(219, 219, 219); }
     .text h1 {
         text-align: center;
     }
-  
+
+    footer {
+      width: 100%;
+      grid-area: footer;
+      background: #000000;
+      align-items: baseline;
+      height: 4em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+    }
+
   /* For mobile phones: */
   [class*="col-"] {
       width: 100%;
