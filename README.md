@@ -14,4 +14,4 @@ To create a portfolio to showcase my ability within four weeks of learning HTML 
 
 ### <u>Wireframes</u>
 
-![](./docs/desktop.JPG)![](./docs/iphones.JPG)![](./docs/ipads.JPG)
+Desktop![](./docs/desktop.JPG) Iphone![](./docs/iphones.JPG) Ipads![](./docs/ipads.JPG)
