@@ -10,8 +10,8 @@ To create a portfolio to showcase my ability within four weeks of learning HTML 
 
 ### <u>Sitemap</u> 
 
-![sitemap](C:\Users\danie\projects\portfolio\docs\sitemap.JPG)
+![](./docs/sitemap.JPG)
 
 ### <u>Wireframes</u>
 
-![iphones](C:\Users\danie\projects\portfolio\docs\desktop.JPG)![iphones](C:\Users\danie\projects\portfolio\docs\iphones.JPG)![ipads](C:\Users\danie\projects\portfolio\docs\ipads.JPG)
+<u>Desktop</u>![](./docs/desktop.JPG) <u>Tablets</u>![](./docs/ipads.JPG) <u>Phones</u>![](./docs/iphones.JPG)
