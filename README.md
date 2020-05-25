@@ -18,7 +18,7 @@ Functionality wise, this portfolio is completely responsive and is tested to hav
 
 ### <u>Wireframes</u>
 
-<u>Desktop</u>![](./docs/desktop.JPG) <u>Tablets</u>![](./docs/ipads.JPG) <u>Phones</u>![](./docs/iphones.JPG)
+### <u>Desktop</u>![](./docs/desktop.JPG) ### <u>Tablets</u>![](./docs/ipads.JPG) ### <u>Phones</u>![](./docs/iphones.JPG)
 
 ### <u>Performance</u>
 
