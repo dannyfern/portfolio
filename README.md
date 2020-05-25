@@ -18,5 +18,5 @@ To create a portfolio to showcase my ability within four weeks of learning HTML 
 
 ### <u>Performance</u>
 
-![](./docs/performance.jpg)
-![](./docs/mobileperformance.jpg)
+![](./docs/performance.JPG)
+![](./docs/mobileperformance.JPG)
