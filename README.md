@@ -2,7 +2,7 @@
 
 ##### GitHub Repository: https://github.com/dannyfern/portfolio
 
-##### Deployable Site: https://angry-aryabhata-0ff7f7.netlify.app/blog.html
+##### Deployable Site: https://angry-aryabhata-0ff7f7.netlify.app/index.html
 
 ### <u>Purpose</u>
 
