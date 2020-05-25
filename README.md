@@ -2,7 +2,7 @@
 
 ##### GitHub Repository: https://github.com/dannyfern/portfolio
 
-##### Deployable Site: https://focused-kirch-c6e794.netlify.app/
+##### Deployable Site: https://angry-aryabhata-0ff7f7.netlify.app/blog.html
 
 ### <u>Purpose</u>
 
