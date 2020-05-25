@@ -22,10 +22,7 @@ Functionality wise, this portfolio is completely responsive and is tested to hav
 
 ### <u>Performance</u>
 
-![](./docs/performance.JPG)
-
-
-![](./docs/mobileperformance.JPG)
+![](./docs/perf.JPG)
 
 ### <u>Target Audience</u>
 The target audience is future employee's who would like to view my work, or anyone thats interested in what I have achieved. 
