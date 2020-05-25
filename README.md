@@ -18,14 +18,11 @@ Functionality wise, this portfolio is completely responsive and is tested to hav
 
 ### <u>Wireframes</u>
 
-<u>Desktop</u>![](./docs/desktop.JPG) <u>Tablets</u>![](./docs/ipads.JPG) <u>Phones</u>![](./docs/iphones.JPG)
+### <u>Desktop</u>![](./docs/desktop.JPG) <u>Tablets</u>![](./docs/ipads.JPG) <u>Phones</u>![](./docs/iphones.JPG)
 
 ### <u>Performance</u>
 
-![](./docs/performance.JPG)
-
-
-![](./docs/mobileperformance.JPG)
+![](./docs/perf.jpg)
 
 ### <u>Target Audience</u>
 The target audience is future employee's who would like to view my work, or anyone thats interested in what I have achieved. 
